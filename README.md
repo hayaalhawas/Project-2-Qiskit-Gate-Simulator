@@ -1,8 +1,8 @@
-# Project-2-Qiskit-Gate-Simulator
+# Project 2 🧩
 ---
-# Qiskit Gate Simulator
+# Qiskit Gate Simulator 
 
-This repository contains a Python program using Qiskit to simulate AND, OR, XOR, and NAND gates. Each gate is implemented as a separate function, and each function provides all possible combinations of inputs and outputs for the selected gate. The program allows users to choose the inputs, and it will display the counts and the corresponding quantum circuits.
+This repository contains a Python program using Qiskit to simulate AND, OR, XOR, and NAND gates. Each gate is implemented as a separate function, and each function provides all possible combinations of inputs and outputs for the selected gate. The program allows users to choose the inputs, displaying the counts and the corresponding quantum circuits.
 
 ## Functions
 
@@ -10,7 +10,7 @@ This repository contains a Python program using Qiskit to simulate AND, OR, XOR,
 
 Function: `and_gate()`
 
-Description: This function simulates the AND gate and takes all the possible inputs (0 , 1)  and  using Qiskit Simulator returns the output for each caes along with it's own corresponding quantum circuit.
+Description: This function simulates the AND gate and takes all the possible inputs (0 , 1)  and,  using the Qiskit Simulator, returns the output for each caes along with it's own corresponding quantum circuit.
 
 Example:
 
@@ -26,7 +26,7 @@ print(circuit)
 
 Function: `or_gate()`
 
-Description: This function simulates the OR gate and takes all the possible inputs (0 , 1)  and  using Qiskit Simulator returns the output for each caes along with it's own corresponding quantum circuit.
+Description: This function simulates the OR gate and takes all the possible inputs (0 , 1)  and,  using the Qiskit Simulator, returns the output for each caes along with it's own corresponding quantum circuit.
 Example:
 
 ```python
@@ -41,7 +41,7 @@ print(circuit)
 
 Function: `xor_gate()`
 
-Description: This function simulates the XOR gate and takes all the possible inputs (0 , 1)  and  using Qiskit Simulator returns the output for each caes along with it's own corresponding quantum circuit.
+Description: This function simulates the XOR gate and takes all the possible inputs (0 , 1)  and,  using the Qiskit Simulator, returns the output for each caes along with it's own corresponding quantum circuit.
 Example:
 
 ```python
@@ -56,7 +56,7 @@ print(circuit)
 
 Function: `nand_gate(input1, input2)`
 
-Description: This function simulates the NAND gate and takes all the possible inputs (0 , 1)  and  using Qiskit Simulator returns the output for each caes along with it's own corresponding quantum circuit.
+Description: This function simulates the NAND gate and takes all the possible inputs (0 , 1)  and,  using the Qiskit Simulator, returns the output for each caes along with it's own corresponding quantum circuit.
 Example:
 
 ```python

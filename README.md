@@ -1,6 +1,6 @@
-# Project 2 👨🏻‍💻
+#Quantum Project 2 👨🏻‍💻
 ---
-# Qiskit Gate Simulator 
+#Qiskit Gate Simulator 
 
 This repository contains a Python program using Qiskit to simulate AND, OR, XOR, and NAND gates. Each gate is implemented as a separate function, and each function provides all possible combinations of inputs and outputs for the selected gate. The program allows users to choose the inputs, displaying the counts and the corresponding quantum circuits.
 
